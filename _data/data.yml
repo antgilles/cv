@@ -76,18 +76,15 @@ experiences:
             - Cloud Computing : Openstack - Newton ( 3000 vcpu )
             - Stockage :  Ceph – Mimi ( 3 PB )
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Chef de projet infrastructure au sein de la cellule Internet
+      time: 2016 - 2017
+      company: SILCA (CREDIT AGRICOLE)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        •	Etude et mise en place d’une infrastructure d’hébergement containerisé (LXC/Proxmox/Netapp)
+        •	Migration infrastructure stockage NAS/SAN NETAPP
+        •	Etude et mise en place d’un service DNS pour le groupe résilient et répondant aux nouvelles normes de sécurité (Bind / Akamai FastDNS )
+        •	Gestion Administrative et technique des ressources RIPE du groupe.(AS, Inet,…)
+        •	Support N3 de l’infrastructure réseau et sécurité
 
     - role: UI Developer
       time: 2012 - 2014
