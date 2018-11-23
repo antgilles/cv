@@ -80,24 +80,26 @@ experiences:
       time: 2016 - 2017
       company: SILCA (CREDIT AGRICOLE)
       details: |
-        •	Etude et mise en place d’une infrastructure d’hébergement containerisé (LXC/Proxmox/Netapp)
-        •	Migration infrastructure stockage NAS/SAN NETAPP
-        •	Etude et mise en place d’un service DNS pour le groupe résilient et répondant aux nouvelles normes de sécurité (Bind / Akamai FastDNS )
-        •	Gestion Administrative et technique des ressources RIPE du groupe.(AS, Inet,…)
-        •	Support N3 de l’infrastructure réseau et sécurité
+          - Etude et mise en place d’une infrastructure d’hébergement containerisé (LXC/Proxmox/Netapp)
+          - Migration infrastructure stockage NAS/SAN NETAPP
+          - Etude et mise en place d’un service DNS pour le groupe résilient et répondant aux nouvelles normes de sécurité (Bind / Akamai FastDNS )
+          - Gestion Administrative et technique des ressources RIPE du groupe.(AS, Inet,…)
+          -	Support N3 de l’infrastructure réseau et sécurité
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Chef de projet Hébergement et Infrastructure
+      time: 2012 - 2016
+      company: INTRINSEC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        En mission au pôle projet au sein de l’équipe Internet du Groupe Crédit-Agricole
+        Contexte identique à la mission de 2011 et réalisation des projets d’infrastructure suivants :
 
-          - Bullet point
-          - Bullet point
+          - Etude et mise en place d’une infrastructure de sauvegarde pour 500 serveurs (Amanda Backup / Stockage Quantum)
+          - Sécurisation des accès au réseau d’administration par authentification par certificat (802.1x)
+          - Mise en place d’une infrastructure à clés publiques (PKI EJBCA)
+          - Orchestration de tests de plan de secours informatique (PSI)
+          - Etude et mise en place de fermes à sites web cloisonnés et haute disponibilité (Apache / PHP-FPM)
+          - Etude et POC de solution de stockage distribué (CEPH)
+          - Migration de l’infrastructure des Reverse Proxy
 
 projects:
     title: Projects
