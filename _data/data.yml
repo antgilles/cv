@@ -134,9 +134,9 @@ experiences:
       company: INTRINSEC
       details: |
           En mission au sein de l’équipe Internet du Groupe Crédit-Agricole (Crédit-Agricole + LCL) (20 personnes)
-            - Sécurisation des accès entrant et sortant du groupe Crédit Agricole (BAM - Banque à accès multiple).
+            - Sécurisation des accès entrant et sortant du groupe Crédit Agricole (BAM - Banque à accès multiple)
             - Fournisseur d’accès internet sécurisé pour le groupe Crédit Agricole SA (Proxy, Relais de messagerie, DNS)
-            - Hébergement des sites institutionnels (ex : crédit-agricole.fr) et des différents sites vitrine :
+            - Hébergement des sites institutionnels (ex : crédit-agricole.fr) et des différents sites vitrine
             - Exploitation et/ou mise en place d’environ 500 Serveurs physiques( Debian / Redhat / Windows 2003 / 2008 Server )
             - Exploitation et/ou mise en place de plus de 75 équipements d’infrastructure (Firewall /switch /routeur / Messagerie / Stockage / Load-balancer )
             - Mise en place d’outils de supervision Nagios, Cacti
@@ -161,16 +161,16 @@ skills:
       - name: Kubernetes
         level: 80%
 
-      - name: Python developpement
+      - name: Python
         level: 80%
 
       - name: Monitoring
         level: 90%
 
-      - name: Network LAN/WAN (Switch / Routeur / ISP)
+      - name: Network LAN/WAN
         level: 90%
 
-      - name: Système Linux (Debian, Centos, Redhat, ubuntu)
+      - name: Système Linux
         level: 95%
 
       - name: Système Windows
