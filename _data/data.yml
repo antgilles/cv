@@ -33,7 +33,7 @@ sidebar:
       - idiom: Allemand
         level: Scolaire
         
-    interests:
+    Loisirs:
       - item: Snowboard
         link:
 
@@ -46,14 +46,14 @@ sidebar:
 career-profile:
     title: Profil
     summary: |
-      Ingénieur sécurité réseau et système de formation, j’ai 14 ans d’expérience dans l’architecture et la gestion des
-      infrastructures de production informatique bancaire. Mes compétences sont transverses et l’automatisation a toujours
-      été une priorité. Je suis donc venu naturellement à la culture Devops pour implémenter
-      et maintenir des infrastructures cloud.
+      Ingénieur sécurité réseau et système de formation, j’ai **14 ans d’expérience** dans l’architecture et la gestion des
+      infrastructures de production informatique bancaire. Mes compétences sont **transverses** et l’**automatisation** a toujours
+      été une priorité. Je suis donc venu naturellement à la culture **Devops** pour implémenter
+      et maintenir des **infrastructures cloud**.
 
 education:
-    - degree: Dipôme expert en ingénierie informatique - Spécialisation Système réseau et sécurité
-      university: EPITA
+    - degree: Dipôme expert en ingénierie informatique
+      university: EPITA - Spécialisation Système réseau et sécurité
       time: 1999 - 2004
 
     - degree: Baccalauréat général S
