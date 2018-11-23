@@ -26,10 +26,10 @@ sidebar:
     languages:
 
       - idiom: Français
-        level: Maternel
+        level: langue maternelle
 
       - idiom: Anglais
-        level: Lu,écrit,parlé
+        level: Courant
 
       - idiom: Allemand
         level: Scolaire
@@ -41,7 +41,7 @@ sidebar:
       - item: Kitesurf
         link:
 
-      - item: Randonnées
+      - item: Randonnée
         link:
 
 career-profile:
@@ -77,7 +77,7 @@ experiences:
             - Stockage :  Ceph – Mimi ( 3 PB )
 
     - role: Chef de projet infrastructure au sein de la cellule Internet
-      time: 2016 - 2017
+      time: Avril 2016 - Mars 2017
       company: SILCA (CREDIT AGRICOLE)
       details: |
           - Etude et mise en place d’une infrastructure d’hébergement containerisé (LXC/Proxmox/Netapp)
@@ -87,7 +87,7 @@ experiences:
           -	Support N3 de l’infrastructure réseau et sécurité
 
     - role: Chef de projet Hébergement et Infrastructure
-      time: 2012 - 2016
+      time: Juin 2012 - Mars 2016
       company: INTRINSEC
       details: |
         En mission au pôle projet au sein de l’équipe Internet du Groupe Crédit-Agricole
@@ -101,75 +101,79 @@ experiences:
           - Etude et POC de solution de stockage distribué (CEPH)
           - Migration de l’infrastructure des Reverse Proxy
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    - role: Architecte Réseau et Sécurité
+      time: Décembre 2012 - Juin 2012
+      company: DELOITTE
+      details: |
+        Intégration de l'équipe réseau et sécurité de la DSI Deloitte
+          -	Chef de projet sur l'intégration du Wifi : Mise à disposition du réseau sans fil pour plus de 3000 utilisateurs sur 20 sites différents (ARUBA, Ucopia)
+          -	Mise en place d'architectures réseau pour différents projets (Lync, Direct Access, NAP)
+          -	Sécurisation des accès aux sites web hébergés (F5 ASM)
+          -	Gestion des règles de sécurité des pare-feux (checkpoint, Cisco ASA)
+          -	Gestion des réseaux utilisateurs (Avaya VSP9000 - Avaya ERS55xx)
+          -	Gestion des réseaux serveurs (switchs HP GBe)A
+          -	Gestion des sites distants (VPN Cisco ASA - Nortel Contivity)
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Chef de projet Hébergement et Infrastructure
+      time: Mars 2011 - Novembre 2011
+      company: INTRINSEC
+      details: |
+        Intégration du pôle projet au sein de l’équipe Internet du Groupe Crédit-Agricole (Evolution de mission)
+          - Accompagnement des maîtrises d'œuvre dans les choix techniques en fonction du besoin exprimé.
+        		- Projets d'hébergement Web sur site LAMP / Tomcat / jboss
+        		- Commande / installation des serveurs et des applications
+        		- Documentations / Supervision / Procédures et formation du pôle exploitation en vue du passage en 	production
+          - Référent technique pour la partie production
+          - Gestion de phases de projets de changement d'architecture :
+        		- Migration du réseau au 10Gb (Migration Firewalls / switchs )
+        		- Déménagement architecture sur 2 nouveaux sites
+          - Automatisation de tâche d'administration et de reporting
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: Ingénieur de production sécurité et réseaux
+        time: Novembre 2004 - Février 2011
+        company: INTRINSEC
+        details: |
+          En mission au sein de l’équipe Internet du Groupe Crédit-Agricole (Crédit-Agricole + LCL) (20 personnes)
+            - Sécurisation des accès entrant et sortant du groupe Crédit Agricole (BAM - Banque à accès multiple).
+            - Fournisseur d’accès internet sécurisé pour le groupe Crédit Agricole SA (Proxy, Relais de messagerie, DNS)
+            - Hébergement des sites institutionnels (ex : crédit-agricole.fr) et des différents sites vitrine :
+            - Exploitation et/ou mise en place d’environ 500 Serveurs physiques( Debian / Redhat / Windows 2003 / 2008 Server )
+            - Exploitation et/ou mise en place de plus de 75 équipements d’infrastructure (Firewall /switch /routeur / Messagerie / Stockage / Load-balancer )
+            - Mise en place d’outils de supervision Nagios, Cacti
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Openstack
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Ceph
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Ansible
+        level: 90%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Jenkins
+        level: 80%
+
+      - name: Kubernetes
+        level: 80%
+
+      - name: Python developpement
+        level: 80%
+
+      - name: Monitoring
+        level: 90%
+
+      - name: Network LAN/WAN (Switch / Routeur / ISP)
+        level: 90%
+
+      - name: Système Linux (Debian, Centos, Redhat, ubuntu)
+        level: 95%
+
+      - name: Système Windows
+        level: 70%
+
+
