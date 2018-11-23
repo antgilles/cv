@@ -3,83 +3,63 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Antoine GILLES
+    tagline: Ingénieur Infrastructure Cloud
+    avatar: photocv.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ant.gilles@gmail.com
+    phone: (+33) 06 82 19 12 52
+    website: #blog.webjeda.com #do not add http://
+    linkedin: antoine-gilles-17540a173
+    github: antgilles
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Français
+        level: Maternel
 
-      - idiom: French
-        level: Professional
+      - idiom: Anglais
+        level: Lu,écrit,parlé
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Allemand
+        level: Scolaire
         
     interests:
-      - item: Climbing
+      - item: Snowboard
         link:
 
-      - item: Snowboarding
+      - item: Kitesurf
         link:
 
-      - item: Cooking
+      - item: Randonnées
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profil
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Ingénieur sécurité réseau et système de formation, j’ai 14 ans d’expérience dans l’architecture et la gestion des
+      infrastructures de production informatique bancaire. Mes compétences sont transverses et l’automatisation a toujours
+      été une priorité. Je suis donc venu naturellement à la culture Devops pour implémenter
+      et maintenir des infrastructures cloud.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: Dipôme expert en ingénierie informatique - Spécialisation Système réseau et sécurité
+      university: EPITA
+      time: 1999 - 2004
 
-          - Bullet point
-          - Bullet point 
+    - degree: Baccalauréat général S
+      university: Lycée Sainte Geneviève Asnières
+      time: 1999
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
 
 experiences:
     - role: Lead Developer
