@@ -2,7 +2,7 @@
 
 # Site Settings
 title: CV A.GILLES - Ingénieur Infrastructure Cloud
-url: 'https://antgilles.github.io'
+url: 'http://antgilles-cv.s3-website.eu-west-3.amazonaws.com'
 baseurl: '/' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: green # blue turquoise green berry orange ceramic
